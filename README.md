@@ -1,1 +1,1 @@
-# focus-themecore
+# focus-theme
