@@ -7,6 +7,7 @@ object ThemeConstants {
     const val KEEP_SCREEN_ON = "keep_screen_on"
     const val TOGGLE_FULL_SCREEN = "toggle_full_screen"
     const val WALLPAPER_ACCENT = "wallpaper_accent"
+    const val APP_OPEN_COUNT = "app_open_count"
     const val COLORED_APP_SHORTCUTS = "colored_app_shortcuts"
     const val ACCENT_COLOR = "accent_color"
     const val DESATURATED_COLOR = "desaturated_color"
